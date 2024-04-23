@@ -1,0 +1,155 @@
+body{
+    background-color: rgb(119, 158, 202);
+ }
+ #ogato{
+    height: 52px;
+    width: 512px; 
+    margin-left: 560px;
+    margin-top: 100px;
+    
+    
+ }
+
+ #imagem{
+    position: absolute;
+    left: 0%;
+    right: 57.64%;
+    top: 0%;
+    bottom: 0%;
+
+ }
+
+ #exOgato{
+    width: 612px;
+    height: 114px;
+    margin-left: 560px;
+ }
+ 
+ #Dorminhoco{
+    position: absolute;
+    width: 325px;
+    height: 121px;
+    top: 320px;
+    left: 560px;
+    padding: 50px 0px 21px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+ }
+
+ #exDorminhoco{
+    position: absolute;
+    width: 325px;
+    height: 121px;
+    top: 350px;
+    left: 560px;
+    padding: 50px 0px 21px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+
+}
+
+#Preguiçoso{
+    position: absolute;
+    width: 325px;
+    height: 121px;
+    top: 320px;
+    left: 920px;
+    padding: 50px 0px 21px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+
+#exPreguiçoso{
+    position: absolute;
+    width: 325px;
+    height: 121px;
+    top: 350px;
+    left: 920px;
+    padding: 50px 0px 21px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+
+
+}
+
+#Independente{
+    position: absolute;
+    width: 325px;
+    height: 121px;
+    top: 463px;
+    left: 560px;
+    padding: 50px 0px 21px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+
+#exIndependente{
+    position: absolute;
+    width: 325px;
+    height: 121px;
+    top: 493px;
+    left: 560px;
+    padding: 50px 0px 21px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+    
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+
+
+
+}
+
+#Arisco{
+    position: absolute;
+    width: 325px;
+    height: 121px;
+    top: 463px;
+    left: 920px;
+    padding: 50px 0px 0px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+
+#exArisco{
+    position: absolute;
+    width: 325px;
+    height: 121px;
+    top: 493px;
+    left: 920px;
+    padding: 50px 0px 0px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+
+
+
+}
