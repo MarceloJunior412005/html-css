@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12+Charted&family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
+
+
+@font-face {
+    font-family: 'Passion One';
+    src: url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+}
+body{
+    background-color: white;
+}
+*{
+    margin: 0px;
+    padding: 0px;;
+}
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 60px;
+    font-family: 'Passion One';
+    font-size: 60px;
+}
+header p{
+    font-size: 20px;
+    font-family: 'oi';
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header p a{
+    color: white;
+}
+section{
+    font-family: "Sriracha", cursive;
+    margin: 50px 30px;
+    font-size: 50px;
+    
+}
+.parte1{
+    background-color: rgb(151, 145, 145);
+    color: black;
+    width: 500px;
+    height:700px;
+    text-indent: 8px;
+}
+.parte2{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.parte3{
+    background-color: rgb(151, 145, 145);
+    color: black;
+}
+.parte4{
+    background-color: black;
+    color: white;
+}
+.parte5{
+    background-color: rgb(151, 145, 145);
+    color: black;
+}
+footer{
+    background-color: black;
+    color: white;
+}
